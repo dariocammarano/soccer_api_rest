@@ -1,0 +1,6 @@
+com\example\demo\config\MongoConfiguration.class
+com\example\demo\controllers\LeagueController.class
+com\example\demo\Application.class
+com\example\demo\services\LeagueService.class
+com\example\demo\controllers\TeamController.class
+com\example\demo\repository\LeagueRepository.class
